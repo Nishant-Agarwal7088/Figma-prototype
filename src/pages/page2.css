@@ -1,0 +1,84 @@
+.screen .line-3 {
+  position: relative;
+  bottom: 35px;
+  left: 205px;
+  opacity: 0.3;
+  z-index: 2;
+}
+.screen .middle-text-2 {
+  position: relative;
+  width: 388px;
+  height: 72px;
+  bottom: 20px;
+  left: 20px;
+  gap: 0px;
+  opacity: 0.3;
+  z-index: 3;
+}
+.screen .middle-text-2 h1 {
+  font-family: Athelas;
+  font-size: 21.77px;
+  font-weight: 400;
+  line-height: 26.12px;
+  text-align: center;
+}
+.screen .middle-text-2 span {
+  font-family: Athelas;
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 35.88px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+.screen .middle-text-2 span i {
+  font-family: Athelas;
+  font-size: 21.77px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 26.12px;
+  text-align: center;
+}
+
+.screen .main-image-2 {
+  position: relative;
+  width: 400px;
+  height: 430px;
+  bottom: 87px;
+  left: 5px;
+  gap: 0px;
+  opacity: 0px;
+}
+.screen .button-2 {
+  position: relative;
+  width: 271.87px px;
+  height: 30.26pxpx;
+
+  left: 90px;
+  bottom: 110px;
+  padding: 8px 16px 8px 16px;
+  gap: 4px;
+  border-radius: 54.36px;
+  border: 0.5px solid #6b6b6b;
+  opacity: 0px;
+  display: flex;
+  z-index: 5;
+}
+.screen .button-2 p {
+  color: #fff;
+  font-family: Plus Jakarta Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 0px;
+
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+.screen .button-2 hr {
+  width: 31.26px;
+  height: 0px;
+
+  border: 0.68px 0px 0px 0px;
+  opacity: 0px;
+  transform: rotate(90deg);
+  margin-top: 11px;
+}

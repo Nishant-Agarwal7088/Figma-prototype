@@ -1,0 +1,95 @@
+.screen .middle-text-4 {
+  position: relative;
+  width: Fixed (361px) px;
+  height: Hug (237px) px;
+  top: 100px;
+  left: 0px;
+  padding: 15px 18px 15px 18px;
+  gap: 12px;
+  opacity: 0px;
+  z-index: 3;
+}
+.screen .middle-text-4 .middle-4 {
+  color: #fff;
+  font-family: Plus Jakarta Sans;
+  font-size: Hug (19px) px;
+  font-weight: 400;
+  line-height: Hug (25px) px;
+  letter-spacing: 0.01em;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.screen .middle-text-4 .middle-1 {
+  font-family: Athelas;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 0px;
+  letter-spacing: 0.12em;
+  text-align: center;
+}
+
+.screen .middle-text-4 .middle-2 {
+  font-family: Athelas;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 30.36px;
+  letter-spacing: 0.01em;
+  text-align: center;
+}
+.screen .middle-text-4 .middle-2 span {
+  padding: 0px 5px 0px 5px;
+}
+.screen .middle-text-4 .middle-3 {
+  position: relative;
+  left: 22px;
+  width: 329px;
+  height: 140px;
+  gap: 0px;
+  opacity: 0px;
+
+  font-family: Plus Jakarta Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19.6px;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.screen .image-4 {
+  position: relative;
+  width: 248px;
+  height: 307px;
+  top: 122.5px;
+  left: 83px;
+  gap: 0px;
+  border-radius: 16px 0px 0px 0px;
+  opacity: 0px;
+}
+.screen .button-4 {
+  position: relative;
+
+  left: 290px;
+  top: 40px;
+  padding: 8px 16px 8px 16px;
+  height: 45px;
+  width: 100px;
+
+  border-radius: 54.36px;
+  border: 0.5px solid #d2c1af80;
+  opacity: 100%;
+  display: flex;
+  z-index: 7;
+  background-color: #d2c1af80;
+}
+.screen .button-4 hr {
+  width: 40.26px;
+  height: 0px;
+
+  border: 0.68px 0px 0px 0px;
+  opacity: 0px;
+  transform: rotate(90deg);
+  margin-top: 11px;
+
+  border: 0.68px solid #212d2d;
+}
